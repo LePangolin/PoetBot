@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/LePangolin/PoetBot#readme",
   "dependencies": {
+    "@discordjs/rest": "^0.3.0",
+    "discord-api-types": "^0.30.0",
     "discord.js": "^13.6.0"
   }
 }
